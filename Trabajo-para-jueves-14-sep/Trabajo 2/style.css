@@ -1,0 +1,13 @@
+.mainconteiner{
+    background-color: #030227;
+    width: 100%;
+}
+.cards{
+    border: 2px #B808F5 solid;
+    background:linear-gradient(180deg,#202041, #020228);
+}
+button{
+    border: none;
+    background-color: #9a36ec;
+    padding: 10px 40px;
+}
