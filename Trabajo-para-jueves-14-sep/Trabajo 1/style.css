@@ -9,8 +9,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
 }
-.button{
-    margin-right: 5px;
+button{
     background-color: #0A0A23;
     color: white;
     border: 1px white solid;
