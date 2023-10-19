@@ -4,9 +4,6 @@
 let arr = [10, 20, 30, 40, 50]
 
 arr.pop();
-arr.push(10);
-
-arr.shift()
 arr.unshift(50)
 
 console.log(arr);
