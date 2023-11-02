@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+}
+
+
+
+/* NAVBAR */
+
+
+
+.logo {
+    width: 40px;
+}
+
+.titulonavbar {
+    color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainavbar {
+    background: linear-gradient(125deg, rgba(0, 223, 221, 1) 0%, rgba(0, 26, 167, 1) 12%, rgba(0, 3, 55, 1) 25%, rgba(255, 255, 255, 1) 25%, rgba(210, 210, 210, 1) 50%, rgba(255, 255, 255, 1) 75%, rgba(0, 3, 55, 1) 75%, rgba(0, 26, 167, 1) 88%, rgba(0, 223, 221, 1) 100%);
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar2 {
+    background: linear-gradient(180deg, rgba(0, 78, 146, 1) 0%, rgba(0, 4, 40, 1) 100%);
+    box-shadow: #0000007a 0px -7px 10px;
+    position: absolute;
+}
+
+
+
+/* CONTENIDO */
+
+
+
+.seccion {
+    text-align: center;
+    padding: 1%;
+    background: linear-gradient(0deg, rgba(0, 78, 146, 1) 0%, rgba(0, 4, 40, 1) 100%);
+    color: white;
+    margin: 0px;
+    border-bottom: 5px rgb(195, 0, 255) solid;
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: linear-gradient(90deg, rgba(0, 69, 255, 1) 0%, rgba(29, 237, 253, 1) 50%, rgba(0, 69, 255, 1) 100%);
+}
+.card{
+    box-shadow: #0000007a 6px 6px 10px;
+}
+
+
+
+/* FOOTER */
+
+
+
+footer {
+    background: linear-gradient(0deg, rgba(0, 78, 146, 1) 0%, rgba(0, 4, 40, 1) 100%);
+    border-top: 5px rgb(195, 0, 255) solid;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.divfooter {
+    color: white;
+    text-decoration: none;
+}
+
+.textfooter {
+    text-decoration: none;
+    color: #00e1ff;
+    font-weight: 500;
+}
